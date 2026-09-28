@@ -2,8 +2,8 @@
 
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 2 Pemrograman Web.  
   
-Nama : Raihan Arrasyid Monadika  
-NIM : 312510206  
+Nama : Muhammad Zacky Virgiano  
+NIM : 312510349  
 Kelas : I251B  
 Mata Kuliah : Pemrograman Web  
 
@@ -13,6 +13,7 @@ Mata Kuliah : Pemrograman Web
 ```
 Lab2Web/
 ├── index.html
+├── semantic.html
 ├── biodata.html
 ├── media/
 │   ├── audio.mp3
