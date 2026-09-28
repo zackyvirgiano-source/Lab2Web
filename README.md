@@ -78,9 +78,10 @@ Menambahkan elemen dropdown pilihan menggunakan `<select>` dan `<option>`, serta
 
 Menerapkan atribut validasi bawaan HTML seperti `required`, `minlength`, `min`, dan `max` pada elemen form untuk memastikan input pengguna valid sebelum dikirim.
 
-<img src="Screenshot/kode6.png">
-<img src="Screenshot/hasil6.png">
-<img src="Screenshot/hasil6lanjut.png">
+<img width="897" height="285" alt="image" src="https://github.com/user-attachments/assets/b95858a7-24a0-4a45-9ecb-94be27f9c375" />
+
+<img width="775" height="95" alt="image" src="https://github.com/user-attachments/assets/16c58aa3-0d8a-4841-b94a-a62fe4989cf6" />
+
 
 
 
@@ -88,22 +89,29 @@ Menerapkan atribut validasi bawaan HTML seperti `required`, `minlength`, `min`, 
 
 Menyusun struktur tata letak halaman web yang lebih bermakna dan terstandar menggunakan elemen semantik seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan `<footer>`.
 
-<img src="Screenshot/kode7.png">
-<img src="Screenshot/hasil7.png">
+<img width="1208" height="616" alt="image" src="https://github.com/user-attachments/assets/d6a1b7b7-6412-43fb-9ab7-3c252b485a85" />
+
+<img width="752" height="377" alt="image" src="https://github.com/user-attachments/assets/f2cb916c-efc6-4eec-b030-4a0077640867" />
+
 
 
 ### 8. Menambahkan Multimedia
 
 Menyisipkan file media berupa audio (`<audio>`) dan video (`<video>`) ke dalam halaman web dengan kontrol pemutaran (`controls`) serta mengambil sumber file dari folder `media/`.
 
-<img src="Screenshot/kode8.png">
-<img src="Screenshot/hasil8.png">
+<img width="1147" height="327" alt="image" src="https://github.com/user-attachments/assets/08a07fc6-3170-456c-a059-b9b00f431ac6" />
+
+<img width="837" height="586" alt="image" src="https://github.com/user-attachments/assets/ed9dfc38-9017-42b9-b67c-bd5dbd6b9729" />
+
 
 
 ### 9. Proyek Mini: Form Biodata Mahasiswa
 
 Menggabungkan seluruh materi yang telah dipelajari—meliputi struktur semantik, tabel data, form registrasi lengkap dengan validasi, hingga elemen multimedia—kedalam satu halaman web proyek mini (`biodata.html`).
 
-<img src="Screenshot/kode9.png">
-<img src="Screenshot/kode9lanjut.png">
-<img src="Screenshot/hasil9.png">
+<img width="962" height="827" alt="image" src="https://github.com/user-attachments/assets/bb08009d-a3ef-4922-8fb9-5bd4d91c25f3" />
+
+<img width="1032" height="508" alt="image" src="https://github.com/user-attachments/assets/b7f53f0a-2a86-43a7-b717-3892db3930e0" />
+
+<img width="580" height="722" alt="image" src="https://github.com/user-attachments/assets/7b7c782d-89d4-44f1-bcf8-1f9f2c449a7a" />
+
